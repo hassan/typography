@@ -1,5 +1,11 @@
 require "typography/version"
 
 module Typography
-  # Your code goes here...
+  LSQUO = '‘'
+  RSQUO = '’'
+  LDQUO = '“'
+  RDQUO = '”'
+
+  SPRIME = '′'
+  DPRIME = '″'
 end
