@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = Typography::VERSION
   spec.authors       = ["Hassan Schroeder"]
   spec.email         = ["hassan@webtuitive.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
+  spec.summary       = %q{Provide constants for non-keyboard-available characters.}
   spec.description   = %q{TODO: Write a longer description. Optional.}
   spec.homepage      = ""
   spec.license       = "MIT"
