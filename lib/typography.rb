@@ -8,4 +8,5 @@ module Typography
 
   SPRIME = '′'
   DPRIME = '″'
+  TPRIME = '‴'
 end
